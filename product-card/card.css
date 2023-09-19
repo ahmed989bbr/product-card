@@ -48,11 +48,11 @@ body{
 span{
     color: #407F6A;
     font-size: 40px;
-    font-weight: 900;
+    font-weight: 600;
 }
 .price sup {
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 400;
 text-decoration: line-through;
 color: #666;
 position: absolute;
